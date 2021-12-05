@@ -1,0 +1,15 @@
+<Skills>
+		<QA_Theory>
+		    <Issue>SDLC</Issue>
+		    <Issue>STLC</Issue>
+		    <Issue>Test-case</Issue>
+		    <Issue>Bug-report</Issue>
+		</QA_Theory>
+		<Practise>
+	        <Program>Postman</Program>
+	        <Program>XCode</Program>
+	        <Program>Android Studio</Program>
+	        <Format>JSON</Format>
+	        <Format>XML</Format>
+        </Practise>
+</Skills>
