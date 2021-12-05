@@ -1,0 +1,9 @@
+<FAQ>
+	<name>Olga Kirzhaeva</name>
+	<age>34</age>
+	<pets>
+		<cats>4</cats>
+		<dog>1</dog>
+	</pets>
+	<salary>1000$</salary>
+</FAQ>
